@@ -25,3 +25,5 @@ while True:
 	else:
 		print("maybe you typed something wrong, try again")
 		continue
+else:
+	print("what? why is True not Truing?")
