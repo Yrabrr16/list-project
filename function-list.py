@@ -28,5 +28,9 @@ while True:
 else:
 	print("what? why is True not Truing?")
 print("ok, need another change")
+<<<<<<< HEAD
 
 print("i`m tired, bro")
+=======
+print("and another one...")
+>>>>>>> aa062ea8d70a0f46a2691d89d6e2236a3c7a7f62
