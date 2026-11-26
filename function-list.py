@@ -1,3 +1,4 @@
+# bro, these defs so uselessss i can`t(((
 def add_to_list(a):
 	return a
 
