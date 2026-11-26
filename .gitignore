@@ -29,3 +29,6 @@ Thumbs.db
 
 # ini files
 *.ini
+
+# special.texts
+spec.txt
